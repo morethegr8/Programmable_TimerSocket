@@ -1,6 +1,6 @@
 # Timy -- Programmable Timer Socket
 
-This is a custom made Timer module (24Hrs) using ATTINY841 controller. Personally I'm using this for charging cellphone overnight. You can also use it for keeping lamp/heaters for specific time limit. Hardware & Software are fairly simple and self explanatory. It uses the Atmel Studio for ATTINY841 and a number of 3rd party libraries. 
+<b>Timy</b> is a custom made Timer module (24Hrs) using ATTINY841 controller. Personally I'm using this for charging cellphone overnight. You can also use it for keeping lamp/heaters for specific time limit. Hardware & Software are fairly simple and self explanatory. It uses the Atmel Studio for ATTINY841 and a number of 3rd party libraries. 
 
 Currently working on Timy_v2.
 
