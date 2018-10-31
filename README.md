@@ -18,7 +18,7 @@ And of course you can always buy me a beer, coffee, tea,... via the donation but
 
 ||
 |---|
-|![Timy_Schematic [PDF]](/hardware/Timy_Controller.pdf)||
+|![Timy_Schematic [PDF]](/hardware/Timy_Controller/Timy_Controller.pdf)||
 |![Timy](/hardware/Timy.png)||
 |**Timy**||
 
