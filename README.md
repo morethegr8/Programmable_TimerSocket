@@ -16,6 +16,13 @@ And of course you can always buy me a beer, coffee, tea,... via the donation but
 
 # Hardware
 
+||
+|---|
+|![Timy_Schematic[PDF]](/hardware/Timy Controller.pdf)||
+|![Timy](/hardware/Timy.png)||
+|**Timy**||
+
+
 # License
 
 Copyright (C) 2016-2018 by Amit More (@morethegr8)
