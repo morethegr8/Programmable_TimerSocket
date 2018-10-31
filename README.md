@@ -6,7 +6,7 @@ Currently working on Timy_v2.
 
 # Contribute
 
-There are several ways to contribute to Dishwasher development. You can contribute to the repository by doing:
+There are several ways to contribute to Timy development. You can contribute to the repository by doing:
 
 * Pull requests (fixes, enhancements, new features... are very welcome)
 * Documentation (I reckon I'm bad at it)
